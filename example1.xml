@@ -5,7 +5,8 @@
         <year>2008</year>
         <gdppc>141100</gdppc>
         <neighbor name="Austria" direction="E"/>
-        <neighbor name="Switzerland" direction="W"/>
+	<neighbor name="Switzerland" direction="W"/>
+	<neighbor name="Poland" direction="E"/>
     </country>
     <country name="Singapore">
         <rank updated="yes">5</rank>
